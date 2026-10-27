@@ -1,0 +1,5 @@
+#To give some cooling time, 
+#torpedo stores are fired alternating
+GT4500,1,0,1,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE
