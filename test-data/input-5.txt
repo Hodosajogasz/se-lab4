@@ -1,0 +1,3 @@
+#Tries to fire both of the torpedo stores
+GT4500,0,0,1,0
+TORPEDO,ALL
